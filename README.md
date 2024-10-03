@@ -56,12 +56,12 @@ Licença
 Este projeto está licenciado sob a MIT License.
 
 Contato
-Para mais informações, você pode entrar em contato pelo e-mail: seu-email@exemplo.com.
+Para mais informações, você pode entrar em contato pelo e-mail: rafael.guedes1020@gmail.com.
 
 javascript
 Copiar código
 
-Você pode substituir os placeholders (como `seu-usuario`, `seu-repositorio`, e `rafael.guedes1020@gmail.com`) com as informações relevantes do seu projeto. Se precisar de mais alguma coisa, é só avisar!
+Você pode substituir os placeholders (como `seu-usuario`, `seu-repositorio`, e `seu-email@exemplo.com`) com as informações relevantes do seu projeto. Se precisar de mais alguma coisa, é só avisar!
 
 
 
